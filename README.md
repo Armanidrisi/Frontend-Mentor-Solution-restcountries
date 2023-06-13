@@ -19,7 +19,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 ### Links
 
-- Live Site URL: [Click here](https://armanidrisi.github.io/Frontend-Mentor-Solution-restcountries/)
+- Live Site URL: [Click here](https://verdant-bublanina-8fb663.netlify.app/))
 
 ## My process
 
